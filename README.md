@@ -21,7 +21,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-blue?logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws)
-![JIRA](https://img.shields.io/badge/-JIRA-blue?logo=jira&logoColor=white)
+
 
 ---
 
